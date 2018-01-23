@@ -602,13 +602,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-<h2 id="setup">Check your setup</h2>
-<p>
-Once you are done installing the software listed above,
-please go to the <a href="setup/index.html">testing setup page</a>,
-which has instructions on how to test that everything was installed correctly.
-</p>
-
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
@@ -634,3 +627,11 @@ which has instructions on how to test that everything was installed correctly.
   </ol>
 </div>
 {% endcomment %}
+
+<h2 id="setup">Check your setup</h2>
+<p>
+Once you are done installing the software listed above,
+please go to the <a href="setup/index.html">testing setup page</a>,
+which has instructions on how to test that everything was installed correctly.
+</p>
+
