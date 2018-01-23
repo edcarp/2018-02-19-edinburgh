@@ -12,7 +12,7 @@ To run the scripts, you will first need to open a shell:
 * Linux users: run the Terminal program, which can be found via the applications menu or the search bar.
 * Mac OS users:
   - Either: Go to your Applications. Within Applications, open the Utilities folder. Locate Terminal in the Utilities folder and open it.
-  - Or: Use the Mac ‘Spotlight’ computer search function. Search for: Terminal and press [Enter].
+  - Or: Use the Mac "Spotlight" computer search function. Search for: Terminal and press [Enter].
 * Windows users:
   - Either: Select Start => Git => Git Bash
   - Or: Enter "Git Bash" into the Windows search box.
