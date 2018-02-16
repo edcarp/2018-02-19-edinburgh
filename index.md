@@ -153,6 +153,21 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   attempt to provide them.
 </p>
 
+<!--
+  Collaborative Notes
+  If you want to use an Etherpad, go to
+      http://pad.software-carpentry.org/YYYY-MM-DD-site
+  where 'YYYY-MM-DD-site' is the identifier for your workshop,
+  e.g., '2015-06-10-esu'.
+-->
+{% if page.collaborative_notes %}
+<p align="center" id="collaborative_notes">
+  <em>
+  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code during the workshop.
+  </em>
+</p>
+{% endif %}
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
