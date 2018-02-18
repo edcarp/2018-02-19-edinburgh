@@ -158,14 +158,14 @@ For more options see: https://git.wiki.kernel.org/index.php/GitHosting
 
 ----
 
-## Create new account on GitHub 1
+### Create new account on GitHub (1)
 
 <img src="imgs/SignUp.png" alt="Sign up to GitHub 1"
      style="background:none; border:none; box-shadow:none;">
 
 ----
 
-## Create new account on GitHub 2
+### Create new account on GitHub (2)
 
 <img src="imgs/SignUp2.png" alt="Sign up to GitHub 2"
      style="background:none; border:none; box-shadow:none;">
@@ -175,14 +175,14 @@ Verify Your email address
 
 ----
 
-## Create a new repository
+### Create a new repository
 
 <img src="imgs/NewRepository.png" alt="Create a new repository"
      style="background:none; border:none; box-shadow:none;">
 
 ---
 
-## Create Repository
+## Creating a Repository
 
 ---
 
@@ -195,10 +195,21 @@ What we have learnt:
 * Know how to fetch and merge or pull content.
 * Know how to resolve conflicts.
 
-Next we look at establishing collaborations.
+----
 
----
+### **pull**ing content (fetch and merge)
 
+<img src="imgs/merge.png" alt="Merging content"
+     style="background:none; border:none; box-shadow:none;">
+
+----
+
+### Conflict
+
+<img src="imgs/conflict.png" alt="Conflicting content"
+     style="background:none; border:none; box-shadow:none;">
+
+----
 
 ### More stuff
 
